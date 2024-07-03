@@ -1,0 +1,23 @@
+@import url("https://fonts.cdnfonts.com/css/gilroy-bold");
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --arrow-icon: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg);
+}
+
+body {
+    background: #000000de;
+}
+
+.container {
+    max-width: 91.875rem;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.9375rem;
+    padding-right: 0.9375rem;
+}
+
